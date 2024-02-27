@@ -1,8 +1,15 @@
 
 
+
+
 .users{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 80px 80px;
     gap: 5px;
+}
+
+input{
+    margin: 0px 0 10px
+
 }
