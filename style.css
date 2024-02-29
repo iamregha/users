@@ -13,3 +13,17 @@ input{
     margin: 0px 0 10px
 
 }
+
+.header{
+    display: flex;
+    justify-content:space-between;
+}
+.navbar{
+    border: 1px solid red;
+    
+}
+
+.navbar > ul >li{
+    list-style: none;
+    display: inline-block;
+}
